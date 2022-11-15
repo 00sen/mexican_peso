@@ -1,1 +1,1 @@
-# Mexican Peso Proyect
+# Mexican Peso stablecoin proyect
